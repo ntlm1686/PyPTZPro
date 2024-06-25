@@ -14,5 +14,5 @@ import ptzpro
 
 device = ptzpro.PTZPro()
 
-pan_right() # Pan right operation
+device.pan_right() # Pan right operation
 ```
